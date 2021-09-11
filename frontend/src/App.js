@@ -1,5 +1,6 @@
 import Header from './components/Header'
 import Footer from './components/Footer'
+import HomePage from './pages/HomePage'
 import {Container} from 'react-bootstrap'
 // Library Core:
 import {library} from '@fortawesome/fontawesome-svg-core'
@@ -16,7 +17,7 @@ function App() {
             <Header/>
             <main className="py-3">
                 <Container>
-                    <h1>Welcome</h1>
+                    <HomePage/>
                 </Container>
             </main>
             <Footer/>
