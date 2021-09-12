@@ -18,7 +18,9 @@
     "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1",
-    "immer": ">=9.0.6"
+    "immer": "^9.0.6",
+    "color-string": ">=1.5.5",
+    "is-svg": ">=4.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
